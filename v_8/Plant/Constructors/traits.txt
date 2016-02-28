@@ -1,0 +1,2 @@
+SLA	k	g_w_max	A_max	LNC_min	LNC_max	alpha	beta	K_m	K_g	W_max	h_wp	h_an	h_sat	C_i	U_max	K_N	a_N	SL	RL	NRE	a_VPD	T_inf	T_sup	T_opt	g_min	C_min	C_max a_I	b_I
+0.032	0.050	0.50	30	0.005	0.03	0.05	0.75	0.25	6.25e-4	0.50	150000	860	2145	250	0.8	0.005	0.8	30	60	0.5	0.3	0.00	40.0	25	0.005	100.0	1000	0.01	50
