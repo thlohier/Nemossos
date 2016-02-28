@@ -13,8 +13,6 @@ source("constructScenarioMonoculture.r");
 ## Number of individuals in the species pool
 N_individuals <- 20;
 
-test <- 10;
-
 ## Number of species in the plot
 N_species     <- 1;
 
